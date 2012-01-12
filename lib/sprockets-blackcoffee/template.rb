@@ -4,8 +4,6 @@ module Sprockets
   module BlackCoffee
     class Template < Tilt::CoffeeScriptTemplate
     
-      @@default_bare = true
-    
       def prepare
         options[:bare] = true
         super
