@@ -1,6 +1,6 @@
 # Sprockets BlackCoffee
 
-Yes, sometimes it may be OK to runder your CoffeeScript files using the `--bare` option. Most notably, in test spec helper files under Jasmine.
+Yes, sometimes it may be OK to render your CoffeeScript files using the `--bare` option. Most notably, in test spec helper files under Jasmine.
 
 
 ### Usage
