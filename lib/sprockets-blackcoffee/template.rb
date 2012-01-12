@@ -1,6 +1,6 @@
-require 'tilt/template'
+require 'tilt/coffee'
 
-module Tilt
+module Sprockets
   module BlackCoffee
     class Template < Tilt::CoffeeScriptTemplate
     
